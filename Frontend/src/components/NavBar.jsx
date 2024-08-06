@@ -30,7 +30,7 @@ const NavBar = () => {
             <li><a href='/'>Home</a></li>
             <li><a href='/store'>Store</a></li>
             <li><a href='/contact'>Contact</a></li>
-            <li><a href='/about'>About</a></li>
+            <li><a href='https://github.com/Varunv003' target="_blank">About</a></li>
         </>
     )
     return (
